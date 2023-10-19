@@ -35,7 +35,7 @@ In this step, we are creating a Windows 10 Virtual Machine in Azure with 2-4 vir
 <a href="https://ibb.co/y09rFqL"><img src="https://i.ibb.co/fMgsdHm/Install-IIS-on-VM.png" alt="Install-IIS-on-VM" border="0" /></a>
 </p>
 <p>
-Next, using its Public IP Address, remote desktop into your newly created Virtual Machine and navigate to Programs and Features within the Control Panel and click "Turn Windows features on or off". From here we are going to install/ enable IIS or Internet Information Services and its supporting features: CGI, Common HTTP Features, IIS Management Console. Click "OK" after everything is selected and wait for IIS to be installed. IIS is a web server that osTicket runs on.
+Next, using its Public IP Address, remote desktop into your newly created Virtual Machine and navigate to Programs and Features within the Control Panel and click "Turn Windows features on or off". From here we are going to install/ enable IIS or Internet Information Services and its supporting features: CGI, Common HTTP Features, IIS Management Console. Click "OK" after everything is selected and wait for IIS to be installed. IIS is a web server that osTicket runs on. After installation you can test if the web server is up and running by naviagting to a web browser and tpying in 127.0.0.1, which should load the default IIS website. 
 </p>
 <br />
 
