@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <a href="https://ibb.co/6vzjLk7"><img src="https://i.ibb.co/q0KTVv3/step-1-create-VM.png" alt="step-1-create-VM" border="0" /></a>
 </p>
 <p>
-In this step, we are creating a Windows 10 Virtual Machine (VM) in Azure with 2-4 virtual CPUs. When creating the VM, allow it to create a new Virtual Network (Vnet).
+In this step, we are creating a Windows 10 Virtual Machine in Azure with 2-4 virtual CPUs. When creating the VM, allow it to create a new Virtual Network.
 </p>
 <br />
 
