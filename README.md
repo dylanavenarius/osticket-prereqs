@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Also 1
-- Also 2
-- Also 3
-- Also 4
-- Also 5
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
 
 <h2>Installation Steps</h2>
 
