@@ -35,7 +35,7 @@ In this step, we are creating a Windows 10 Virtual Machine in Azure with 2-4 vir
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+Next, using its Public IP Address, remote desktop into your newly created Virtual Machine and navigate to Programs and Features within the Control Panel and click "Turn Windows features on or off". From here we are going to install/ enable IIS or Internet Information Services and its supporting features: CGI, Common HTTP Features, IIS Management Console. Click "OK" after everything is selected and wait for IIS to be installed. IIS is a web server that osTicket runs on.
 </p>
 <br />
 
