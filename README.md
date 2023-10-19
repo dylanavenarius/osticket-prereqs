@@ -43,6 +43,20 @@ Next, using its Public IP Address, remote desktop into your newly created Virtua
 <a href="https://ibb.co/rcxrBXP"><img src="https://i.ibb.co/3MpZxPX/Screen-Shot-2023-10-19-at-3-55-02-PM.png" alt="Screen-Shot-2023-10-19-at-3-55-02-PM" border="0" /></a>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+Lastly, we will be downloading and installing the necessary prerequisite software to allow us to successfully install and run osTicket on our Virtual Machine.
+  - PHP Manager for IIS
+  - Rewrite Module
+  - PHP 7.3.8 "unzip contents into C:\PHP"
+  - Microsoft Visual C++ Redistributable
+  - MySQL
+  - HeidiSQL
+  - os Ticket v1.15.8
+  We will need to open IIS as an Admin and register PHP and reload IIS. Finally, once osTicket has been installed we will need to enable the following extenstions before creating a database, and setting up an Admin user.
+  - Enable: php_imap.dll
+  - Enable: php_intl.dll
+  - Enable: php_opcache.dll
+</p>
+<p>
+<a href="https://ibb.co/CVZQxDd"><img src="https://i.ibb.co/3SqctQX/Screen-Shot-2023-10-19-at-3-57-47-PM.png" alt="Screen-Shot-2023-10-19-at-3-57-47-PM" border="0" /></a>
 </p>
 <br />
