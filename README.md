@@ -53,7 +53,7 @@ Lastly, we will be downloading and installing the necessary prerequisite softwar
   - HeidiSQL
   - os Ticket v1.15.8
     
-  We will need to open IIS as an Admin and register PHP and reload IIS. Finally, once osTicket has been installed we will need to enable the following extenstions before creating a database, and setting up an Admin user.
+We will need to open IIS as an Admin and register PHP and reload IIS. Finally, once osTicket has been installed we will need to enable the following extenstions before creating a database and setting up an Admin user.
   
   - Enable: php_imap.dll
   - Enable: php_intl.dll
