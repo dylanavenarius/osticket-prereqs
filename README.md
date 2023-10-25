@@ -64,3 +64,9 @@ We will need to open IIS as an Admin and register PHP and reload IIS. Finally, o
 <a href="https://ibb.co/CVZQxDd"><img src="https://i.ibb.co/3SqctQX/Screen-Shot-2023-10-19-at-3-57-47-PM.png" alt="Screen-Shot-2023-10-19-at-3-57-47-PM" border="0" /></a>
 </p>
 <br />
+
+<h2>osTicket Installed!</h2>
+
+<p>
+osTicket is installed and ready to serve as a fully functioning ticketing system. You can use osTicket to become familiar with ticketing system interfaces and learning how to process and resolve tickets.
+</p>
